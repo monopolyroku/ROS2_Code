@@ -1,4 +1,4 @@
-# ROS2_code
+# Hurdle2_TeamK
 This folder contains code from Hurdle 2 ROS2
 
 <br> Authors: Wong Qi En (2101737), Elson Tan Jun Hao (2102036), Muhd Syafiq Bin Idros (2102814) </br>
