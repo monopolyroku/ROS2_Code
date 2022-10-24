@@ -1,0 +1,35 @@
+[1.717s] Invoking command in '/home/me/temp_ws/src/temp_pkg': PYTHONPATH=/home/me/temp_ws/install/temp_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/temp_pkg build --build-base /home/me/temp_ws/build/temp_pkg/build install --prefix /home/me/temp_ws/install/temp_pkg --record /home/me/temp_ws/build/temp_pkg/install.log --single-version-externally-managed
+[2.012s] running egg_info
+[2.013s] creating ../../build/temp_pkg/temp_pkg.egg-info
+[2.013s] writing ../../build/temp_pkg/temp_pkg.egg-info/PKG-INFO
+[2.014s] writing dependency_links to ../../build/temp_pkg/temp_pkg.egg-info/dependency_links.txt
+[2.014s] writing entry points to ../../build/temp_pkg/temp_pkg.egg-info/entry_points.txt
+[2.015s] writing requirements to ../../build/temp_pkg/temp_pkg.egg-info/requires.txt
+[2.015s] writing top-level names to ../../build/temp_pkg/temp_pkg.egg-info/top_level.txt
+[2.015s] writing manifest file '../../build/temp_pkg/temp_pkg.egg-info/SOURCES.txt'
+[2.016s] reading manifest file '../../build/temp_pkg/temp_pkg.egg-info/SOURCES.txt'
+[2.020s] writing manifest file '../../build/temp_pkg/temp_pkg.egg-info/SOURCES.txt'
+[2.020s] running build
+[2.020s] running build_py
+[2.020s] creating /home/me/temp_ws/build/temp_pkg/build
+[2.020s] creating /home/me/temp_ws/build/temp_pkg/build/lib
+[2.020s] creating /home/me/temp_ws/build/temp_pkg/build/lib/temp_pkg
+[2.020s] copying temp_pkg/__init__.py -> /home/me/temp_ws/build/temp_pkg/build/lib/temp_pkg
+[2.020s] running install
+[2.098s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.098s]   warnings.warn(
+[2.099s] running install_lib
+[2.101s] creating /home/me/temp_ws/install/temp_pkg/lib/python3.10/site-packages/temp_pkg
+[2.103s] copying /home/me/temp_ws/build/temp_pkg/build/lib/temp_pkg/__init__.py -> /home/me/temp_ws/install/temp_pkg/lib/python3.10/site-packages/temp_pkg
+[2.104s] byte-compiling /home/me/temp_ws/install/temp_pkg/lib/python3.10/site-packages/temp_pkg/__init__.py to __init__.cpython-310.pyc
+[2.104s] running install_data
+[2.107s] creating /home/me/temp_ws/install/temp_pkg/share/ament_index
+[2.108s] creating /home/me/temp_ws/install/temp_pkg/share/ament_index/resource_index
+[2.108s] creating /home/me/temp_ws/install/temp_pkg/share/ament_index/resource_index/packages
+[2.110s] copying resource/temp_pkg -> /home/me/temp_ws/install/temp_pkg/share/ament_index/resource_index/packages
+[2.110s] copying package.xml -> /home/me/temp_ws/install/temp_pkg/share/temp_pkg
+[2.110s] running install_egg_info
+[2.119s] Copying ../../build/temp_pkg/temp_pkg.egg-info to /home/me/temp_ws/install/temp_pkg/lib/python3.10/site-packages/temp_pkg-0.0.0-py3.10.egg-info
+[2.119s] running install_scripts
+[2.168s] writing list of installed files to '/home/me/temp_ws/build/temp_pkg/install.log'
+[2.191s] Invoked command in '/home/me/temp_ws/src/temp_pkg' returned '0': PYTHONPATH=/home/me/temp_ws/install/temp_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/temp_pkg build --build-base /home/me/temp_ws/build/temp_pkg/build install --prefix /home/me/temp_ws/install/temp_pkg --record /home/me/temp_ws/build/temp_pkg/install.log --single-version-externally-managed

@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/me/temp_ws/install/temp_pkg/lib/python3.10/site-packages",
+        "/home/me/turtle_ws/install/turtle_interfaces/local/lib/python3.10/dist-packages",
+        "/home/me/turtle_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/me/number_ws/install/number_app_py/lib/python3.10/site-packages",
+        "/home/me/number_ws/install/number_app_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/me/temp_ws/install/temp_pkg/lib/python3.10/site-packages",
+        "/home/me/turtle_ws/install/turtle_interfaces/local/lib/python3.10/dist-packages",
+        "/home/me/turtle_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/me/number_ws/install/number_app_py/lib/python3.10/site-packages",
+        "/home/me/number_ws/install/number_app_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

@@ -1,0 +1,2 @@
+Invoking command in '/home/pi/rasp_ws/build/temp_sense_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/pi/rasp_ws/src/temp_sense_pkg -DCMAKE_INSTALL_PREFIX=/home/pi/rasp_ws/install/temp_sense_pkg
+Invoked command in '/home/pi/rasp_ws/build/temp_sense_pkg' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/pi/rasp_ws/src/temp_sense_pkg -DCMAKE_INSTALL_PREFIX=/home/pi/rasp_ws/install/temp_sense_pkg

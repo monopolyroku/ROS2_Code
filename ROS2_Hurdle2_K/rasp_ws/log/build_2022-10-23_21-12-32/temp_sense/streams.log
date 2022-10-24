@@ -1,0 +1,26 @@
+[2.539s] Invoking command in '/home/pi/rasp_ws/src/temp_sense': PYTHONPATH=/home/pi/rasp_ws/install/temp_sense/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/temp_sense build --build-base /home/pi/rasp_ws/build/temp_sense/build install --prefix /home/pi/rasp_ws/install/temp_sense --record /home/pi/rasp_ws/build/temp_sense/install.log --single-version-externally-managed
+[3.387s] running egg_info
+[3.389s] writing ../../build/temp_sense/temp_sense.egg-info/PKG-INFO
+[3.391s] writing dependency_links to ../../build/temp_sense/temp_sense.egg-info/dependency_links.txt
+[3.392s] writing entry points to ../../build/temp_sense/temp_sense.egg-info/entry_points.txt
+[3.393s] writing requirements to ../../build/temp_sense/temp_sense.egg-info/requires.txt
+[3.393s] writing top-level names to ../../build/temp_sense/temp_sense.egg-info/top_level.txt
+[3.404s] reading manifest file '../../build/temp_sense/temp_sense.egg-info/SOURCES.txt'
+[3.409s] writing manifest file '../../build/temp_sense/temp_sense.egg-info/SOURCES.txt'
+[3.410s] running build
+[3.410s] running build_py
+[3.413s] copying temp_sense/temp_sense.py -> /home/pi/rasp_ws/build/temp_sense/build/lib/temp_sense
+[3.415s] running install
+[3.417s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[3.417s]   warnings.warn(
+[3.418s] running install_lib
+[3.422s] copying /home/pi/rasp_ws/build/temp_sense/build/lib/temp_sense/temp_sense.py -> /home/pi/rasp_ws/install/temp_sense/lib/python3.10/site-packages/temp_sense
+[3.424s] byte-compiling /home/pi/rasp_ws/install/temp_sense/lib/python3.10/site-packages/temp_sense/temp_sense.py to temp_sense.cpython-310.pyc
+[3.427s] running install_data
+[3.430s] running install_egg_info
+[3.436s] removing '/home/pi/rasp_ws/install/temp_sense/lib/python3.10/site-packages/temp_sense-0.0.0-py3.10.egg-info' (and everything under it)
+[3.438s] Copying ../../build/temp_sense/temp_sense.egg-info to /home/pi/rasp_ws/install/temp_sense/lib/python3.10/site-packages/temp_sense-0.0.0-py3.10.egg-info
+[3.443s] running install_scripts
+[3.519s] Installing temp_sense script to /home/pi/rasp_ws/install/temp_sense/lib/temp_sense
+[3.521s] writing list of installed files to '/home/pi/rasp_ws/build/temp_sense/install.log'
+[3.633s] Invoked command in '/home/pi/rasp_ws/src/temp_sense' returned '0': PYTHONPATH=/home/pi/rasp_ws/install/temp_sense/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/temp_sense build --build-base /home/pi/rasp_ws/build/temp_sense/build install --prefix /home/pi/rasp_ws/install/temp_sense --record /home/pi/rasp_ws/build/temp_sense/install.log --single-version-externally-managed

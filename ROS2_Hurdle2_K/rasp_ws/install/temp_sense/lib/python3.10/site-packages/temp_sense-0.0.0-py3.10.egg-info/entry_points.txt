@@ -1,0 +1,3 @@
+[console_scripts]
+temp_sense = temp_sense.temp_sense:main
+

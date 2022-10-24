@@ -1,0 +1,25 @@
+[0.622s] Invoking command in '/home/me/temp_ws/src/temp_pkg': PYTHONPATH=/home/me/temp_ws/install/temp_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/temp_pkg build --build-base /home/me/temp_ws/build/temp_pkg/build install --prefix /home/me/temp_ws/install/temp_pkg --record /home/me/temp_ws/build/temp_pkg/install.log --single-version-externally-managed
+[0.882s] running egg_info
+[0.882s] writing ../../build/temp_pkg/temp_pkg.egg-info/PKG-INFO
+[0.882s] writing dependency_links to ../../build/temp_pkg/temp_pkg.egg-info/dependency_links.txt
+[0.882s] writing entry points to ../../build/temp_pkg/temp_pkg.egg-info/entry_points.txt
+[0.882s] writing requirements to ../../build/temp_pkg/temp_pkg.egg-info/requires.txt
+[0.882s] writing top-level names to ../../build/temp_pkg/temp_pkg.egg-info/top_level.txt
+[0.882s] reading manifest file '../../build/temp_pkg/temp_pkg.egg-info/SOURCES.txt'
+[0.882s] writing manifest file '../../build/temp_pkg/temp_pkg.egg-info/SOURCES.txt'
+[0.882s] running build
+[0.882s] running build_py
+[0.882s] copying temp_pkg/temp_monitor.py -> /home/me/temp_ws/build/temp_pkg/build/lib/temp_pkg
+[0.882s] running install
+[0.882s] running install_lib
+[0.882s] copying /home/me/temp_ws/build/temp_pkg/build/lib/temp_pkg/temp_monitor.py -> /home/me/temp_ws/install/temp_pkg/lib/python3.10/site-packages/temp_pkg
+[0.882s] byte-compiling /home/me/temp_ws/install/temp_pkg/lib/python3.10/site-packages/temp_pkg/temp_monitor.py to temp_monitor.cpython-310.pyc
+[0.882s] running install_data
+[0.882s] running install_egg_info
+[0.883s] removing '/home/me/temp_ws/install/temp_pkg/lib/python3.10/site-packages/temp_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.883s] Copying ../../build/temp_pkg/temp_pkg.egg-info to /home/me/temp_ws/install/temp_pkg/lib/python3.10/site-packages/temp_pkg-0.0.0-py3.10.egg-info
+[0.883s] running install_scripts
+[0.883s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.883s]   warnings.warn(
+[0.903s] writing list of installed files to '/home/me/temp_ws/build/temp_pkg/install.log'
+[0.933s] Invoked command in '/home/me/temp_ws/src/temp_pkg' returned '0': PYTHONPATH=/home/me/temp_ws/install/temp_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/temp_pkg build --build-base /home/me/temp_ws/build/temp_pkg/build install --prefix /home/me/temp_ws/install/temp_pkg --record /home/me/temp_ws/build/temp_pkg/install.log --single-version-externally-managed

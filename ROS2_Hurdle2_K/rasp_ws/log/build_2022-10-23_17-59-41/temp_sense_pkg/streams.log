@@ -1,0 +1,14 @@
+[0.051s] Invoking command in '/home/pi/rasp_ws/build/temp_sense_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/pi/rasp_ws/src/temp_sense_pkg -DCMAKE_INSTALL_PREFIX=/home/pi/rasp_ws/install/temp_sense_pkg
+[0.661s] -- The CXX compiler identification is unknown
+[0.675s] [31mCMake Error at CMakeLists.txt:2 (project):
+[0.676s]   No CMAKE_CXX_COMPILER could be found.
+[0.676s] 
+[0.676s]   Tell CMake where to find the compiler by setting either the environment
+[0.677s]   variable "CXX" or the CMake cache entry CMAKE_CXX_COMPILER to the full path
+[0.677s]   to the compiler, or to the compiler name if it is in the PATH.
+[0.677s] 
+[0.677s] [0m
+[0.680s] -- Configuring incomplete, errors occurred!
+[0.680s] See also "/home/pi/rasp_ws/build/temp_sense_pkg/CMakeFiles/CMakeOutput.log".
+[0.681s] See also "/home/pi/rasp_ws/build/temp_sense_pkg/CMakeFiles/CMakeError.log".
+[0.696s] Invoked command in '/home/pi/rasp_ws/build/temp_sense_pkg' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/pi/rasp_ws/src/temp_sense_pkg -DCMAKE_INSTALL_PREFIX=/home/pi/rasp_ws/install/temp_sense_pkg

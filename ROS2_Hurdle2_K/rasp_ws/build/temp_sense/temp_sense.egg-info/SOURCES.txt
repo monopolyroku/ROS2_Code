@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/temp_sense/temp_sense.egg-info/PKG-INFO
+../../build/temp_sense/temp_sense.egg-info/SOURCES.txt
+../../build/temp_sense/temp_sense.egg-info/dependency_links.txt
+../../build/temp_sense/temp_sense.egg-info/entry_points.txt
+../../build/temp_sense/temp_sense.egg-info/requires.txt
+../../build/temp_sense/temp_sense.egg-info/top_level.txt
+../../build/temp_sense/temp_sense.egg-info/zip-safe
+resource/temp_sense
+temp_sense/__init__.py
+temp_sense/temp_sense.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
